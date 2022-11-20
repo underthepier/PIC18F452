@@ -5,7 +5,7 @@ A naive and simple cipher program that I created from scratch in response to a t
 <br>
 <b>View `Interrupts Test.pdf` for my full response<b>
 
-## Question
+## Prompt
 "Write a PIC18 assembly language program that uses two different interrupts to accomplish some tasks of your choice" 
 
 ![Scan](https://user-images.githubusercontent.com/47094586/202923371-6b9b60c7-4ceb-40c8-a360-ebb189ab9839.jpg)
