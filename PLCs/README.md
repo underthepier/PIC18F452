@@ -1,0 +1,1 @@
+NOT a PIC program, but rather a simple traffic light program using Allen Bradley PLCs that I wanted to include in this repo as well
